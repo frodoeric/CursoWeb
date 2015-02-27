@@ -1,0 +1,25 @@
+﻿body {
+    
+    
+    /**
+        background-image: url(../Imagens/Imagens.jpg);
+        background-color: red;
+        */
+}
+
+h1{
+    color: #aee6e6;
+    font-family: Helvetica;
+}
+
+strong{
+    color: orange;
+}
+
+#segundoParagrafo{
+    font-style: italic;
+}
+
+.intens{
+    background: #edcfbb;
+}
