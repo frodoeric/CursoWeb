@@ -1,0 +1,8 @@
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\ContosoConfig\ContosoConfig\bin\ContosoConfig.dll
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\ContosoConfig\ContosoConfig\bin\ContosoConfig.pdb
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\ContosoConfig\ContosoConfig\bin\ContosoConfig.xml
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\ContosoConfig\ContosoConfig\obj\Debug\ContosoConfig.Resources.resources
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\ContosoConfig\ContosoConfig\obj\Debug\ContosoConfig.vbproj.GenerateResource.Cache
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\ContosoConfig\ContosoConfig\obj\Debug\ContosoConfig.dll
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\ContosoConfig\ContosoConfig\obj\Debug\ContosoConfig.xml
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\ContosoConfig\ContosoConfig\obj\Debug\ContosoConfig.pdb

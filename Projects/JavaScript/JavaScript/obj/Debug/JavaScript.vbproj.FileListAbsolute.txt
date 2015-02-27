@@ -1,0 +1,8 @@
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\JavaScript\JavaScript\bin\JavaScript.dll
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\JavaScript\JavaScript\bin\JavaScript.pdb
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\JavaScript\JavaScript\bin\JavaScript.xml
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\JavaScript\JavaScript\obj\Debug\JavaScript.Resources.resources
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\JavaScript\JavaScript\obj\Debug\JavaScript.vbproj.GenerateResource.Cache
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\JavaScript\JavaScript\obj\Debug\JavaScript.dll
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\JavaScript\JavaScript\obj\Debug\JavaScript.xml
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\JavaScript\JavaScript\obj\Debug\JavaScript.pdb
