@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\JQUERYDEMO2\JQUERYDEMO2\bin\JQUERYDEMO2.dll
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\JQUERYDEMO2\JQUERYDEMO2\bin\JQUERYDEMO2.pdb
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\JQUERYDEMO2\JQUERYDEMO2\obj\Debug\JQUERYDEMO2.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\JQUERYDEMO2\JQUERYDEMO2\obj\Debug\JQUERYDEMO2.dll
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\JQUERYDEMO2\JQUERYDEMO2\obj\Debug\JQUERYDEMO2.pdb
