@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\BootsTrapDemo\BootsTrapDemo\bin\BootsTrapDemo.dll
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\BootsTrapDemo\BootsTrapDemo\bin\BootsTrapDemo.pdb
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\BootsTrapDemo\BootsTrapDemo\obj\Debug\BootsTrapDemo.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\BootsTrapDemo\BootsTrapDemo\obj\Debug\BootsTrapDemo.dll
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\BootsTrapDemo\BootsTrapDemo\obj\Debug\BootsTrapDemo.pdb

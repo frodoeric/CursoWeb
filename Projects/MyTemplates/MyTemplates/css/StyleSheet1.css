@@ -1,0 +1,27 @@
+﻿body {
+    /*text-shadow: 2px 2px 7px red;*/
+    /*background-color: red;*/
+    /*border-radius: 80%;*/
+    /*column-count: 3;*/
+
+    
+}
+
+p::first-letter{
+    font-family:Helvetica, Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+    font-size: 30px;
+    color: orange;
+}
+
+p::first-line{
+    font-family:Helvetica, Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+    font-size: 30px;
+    color: orange;
+}
+
+p::selection{
+    font-family:Helvetica, Arial, 'DejaVu Sans', 'Liberation Sans', Freesans, sans-serif;
+    font-size: 30px;
+    color: orange;
+}
+

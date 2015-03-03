@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\MyTemplates\MyTemplates\bin\MyTemplates.dll
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\MyTemplates\MyTemplates\bin\MyTemplates.pdb
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\MyTemplates\MyTemplates\obj\Debug\MyTemplates.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\MyTemplates\MyTemplates\obj\Debug\MyTemplates.dll
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\MyTemplates\MyTemplates\obj\Debug\MyTemplates.pdb
