@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\GlobalJavascript\GlobalJavascript\bin\GlobalJavascript.dll
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\GlobalJavascript\GlobalJavascript\bin\GlobalJavascript.pdb
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\GlobalJavascript\GlobalJavascript\obj\Debug\GlobalJavascript.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\GlobalJavascript\GlobalJavascript\obj\Debug\GlobalJavascript.dll
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\GlobalJavascript\GlobalJavascript\obj\Debug\GlobalJavascript.pdb
