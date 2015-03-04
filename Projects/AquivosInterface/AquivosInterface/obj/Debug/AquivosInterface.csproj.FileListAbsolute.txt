@@ -1,5 +1,0 @@
-C:\Users\Student\Documents\GitHub\CursoWeb\Projects\AquivosInterface\AquivosInterface\bin\AquivosInterface.dll
-C:\Users\Student\Documents\GitHub\CursoWeb\Projects\AquivosInterface\AquivosInterface\bin\AquivosInterface.pdb
-C:\Users\Student\Documents\GitHub\CursoWeb\Projects\AquivosInterface\AquivosInterface\obj\Debug\AquivosInterface.csprojResolveAssemblyReference.cache
-C:\Users\Student\Documents\GitHub\CursoWeb\Projects\AquivosInterface\AquivosInterface\obj\Debug\AquivosInterface.dll
-C:\Users\Student\Documents\GitHub\CursoWeb\Projects\AquivosInterface\AquivosInterface\obj\Debug\AquivosInterface.pdb
