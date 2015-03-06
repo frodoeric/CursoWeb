@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\AnimatingCSS\AnimatingCSS\bin\AnimatingCSS.dll
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\AnimatingCSS\AnimatingCSS\bin\AnimatingCSS.pdb
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\AnimatingCSS\AnimatingCSS\obj\Debug\AnimatingCSS.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\AnimatingCSS\AnimatingCSS\obj\Debug\AnimatingCSS.dll
+C:\Users\Student\Documents\GitHub\CursoWeb\Projects\AnimatingCSS\AnimatingCSS\obj\Debug\AnimatingCSS.pdb

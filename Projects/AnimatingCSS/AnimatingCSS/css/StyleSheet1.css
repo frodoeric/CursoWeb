@@ -1,0 +1,17 @@
+﻿div {
+    width: 300px;
+    height: 100px;
+    background-color: yellow;
+    transition: width 10s, background-color 3750ms, transform 10s;
+    transition-timing-function: ease;
+}
+
+div:hover{
+    /*width: 1500px;*/
+    background-color: red;
+    /*transform: skew(50deg)*/
+    /*transform: rotate(360deg);*/
+    /*transform: rotate(50px, 50px, 100px, 50deg);*/
+    /*transform: rotate3d(100deg, 0deg, 0deg);*/
+    transform: rotateY(180deg);
+}
